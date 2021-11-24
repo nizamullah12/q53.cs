@@ -1,0 +1,7 @@
+C:\Users\SS COMPUTERS\source\repos\q53\q53\bin\Debug\q53.exe.config
+C:\Users\SS COMPUTERS\source\repos\q53\q53\bin\Debug\q53.exe
+C:\Users\SS COMPUTERS\source\repos\q53\q53\bin\Debug\q53.pdb
+C:\Users\SS COMPUTERS\source\repos\q53\q53\obj\Debug\q53.csproj.SuggestedBindingRedirects.cache
+C:\Users\SS COMPUTERS\source\repos\q53\q53\obj\Debug\q53.csproj.CoreCompileInputs.cache
+C:\Users\SS COMPUTERS\source\repos\q53\q53\obj\Debug\q53.exe
+C:\Users\SS COMPUTERS\source\repos\q53\q53\obj\Debug\q53.pdb
